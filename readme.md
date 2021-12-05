@@ -1,6 +1,6 @@
 ### Projeto para o desafio edutech
 
-#### O source code normal está na branch main, e o compilado na branch gh-pages
+#### O source code normal está na branch master, e o compilado na branch gh-pages
 
 Link: [https://eduardoromeu.github.io/edutech/#/blog](https://eduardoromeu.github.io/edutech/#/)
 
