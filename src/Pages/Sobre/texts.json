@@ -1,0 +1,242 @@
+{
+    "urlEditais": [
+        "http://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-03/edital032021_dti_seed.pdf",
+        "http://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-05/edital_retificacao_042021_dti_seed_edutech.pdf",
+        "http://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-05/edital_retificacao_052021_dti_seed_edutech.pdf"
+    ],
+    "urlEtapas": [
+        "https://rebrand.ly/edutech2021",
+        "http://www.educacao.pr.gov.br/programacao_alunos_selecionados",
+        "http://www.educacao.pr.gov.br/programacao_alunos_selecionados_2etapa",
+        "https://rebrand.ly/edutechprof21",
+        "http://www.educacao.pr.gov.br/programacao_professores_cursistas_selecionados",
+        "http://www.educacao.pr.gov.br/programacao_professores_cursistas_selecionados_2etapa"
+    ],
+    "trilhas": [
+        {
+            "title": "Games e Animações",
+            "titleSerie": "Nível 1 (6º e 7º Anos)",
+            "p": [
+                "Nessa trilha de Games e Animação do 6º ao 7º Ano, serão desenvolvidos jogos 2D, desde a concepção do tema do jogo, passando pelo seu funcionamento, analisando as regras do jogo e desenvolvendo toda a parte visual de animação, criação dos personagense a programação para o funcionamento do jogo.",
+                "Nas animações poderão desenvolver efeitos especiais, a física de funcionamento dos personagens, integração com multimídias e integrando tudo com uma aplicação que funcione através da internet.",
+                "Para desenvolver as atividades, vamos utilizar o Scratch para iniciar as atividades e desenvolver os conhecimentos iniciais.",
+                "Depois, vamos passar para o AppInventor para que possamos transformar o nosso jogo em um aplicativo para rodar na internet."
+            ],
+            "videoUrl": "https://youtube.com/embed/QY4DgmgaDgA",
+            "ulTitle": "Conteúdos:",
+            "li": [
+                "Scratch: Programando seu jogo 2D Parte 1",
+                "Scratch 3: Recursos avançados de um jogo 2D Parte 2",
+                "Ângulos 1: Criando um jogo com matemática",
+                "Ângulos 2: Desenvolvendo um jogo mais complexo",
+                "Scratch Animação 1: Animações para um jogo 2D",
+                "Scratch Animação 2: Dando vida a um cenário e retrabalhando sprites",
+                "",
+                "Scratch Efeitos Visuais: Programando e mixando efeitos especiais",
+                "Futebol Manager 1: Lidere a seleção",
+                "Futebol Manager 2: Evoluindo a estratégia",
+                "Futebol Manager 3: Criando um jogo mais complexo",
+                "Scratch: Criando um robô gênio",
+                "Troco 1: O jogo da venda",
+                "Troco 2: Desafios com decimais na computação",
+                "Scratch: Seu jogo com física e gravidade",
+                "",
+                "Scratch: Física e efeitos especiais",
+                "Storytelling: Contando histórias com Scratch",
+                "Scratch: Desenvolvendo um jogo de cobrança de Pênalti",
+                "Cifra de César: Criptografando e descriptografando textos",
+                "App Inventor: Sabre Jedi",
+                "App Inventor 2: Compartilhamento e trabalhando com mídias",
+                "App Inventor 3: Conectando seu aplicativo a web e outros apps"
+            ],
+            "showExtra": false
+        },
+        {
+            "title": "Games e Animações",
+            "titleSerie": "Nível 2 (8º e 9º Anos)",
+            "p": [
+                "Nessa trilha de Games e Animação do 8º ao 9º Ano, serão desenvolvidos jogos 2D, desde a concepção do tema do jogo, passando pelo seu funcionamento, analisando as regras do jogo e desenvolvendo toda a parte visual de animação, criação dos personagens e a programação para o funcionamento do jogo.",
+                "Nas animações poderão desenvolver efeitos especiais, a física de funcionamento dos personagens, integração com multimídias e integrando tudo com uma aplicação que funcione através da internet.",
+                "Para desenvolver as atividades, vamos utilizar o Scratch para iniciar as atividades e desenvolver os conhecimentos iniciais.",
+                "Depois vamos passar para o AppInventor para que possamos transformar o nosso jogo em um aplicativo para rodar na internet e também será utilizado Construct e JavaScript para fazer o nosso jogo rodar em ambiente de plataforma."
+            ],
+            "videoUrl": "https://youtube.com/embed/APUMrx6YZ3c",
+            "ulTitle": "Conteúdos:",
+            "li": [
+                "Scratch: Programando seu jogo 2D Parte 1",
+                "Scratch 3: Recursos avançados de um jogo 2D Parte 2",
+                "Ângulos 1: Criando um jogo com matemática",
+                "Ângulos 2: Desenvolvendo um jogo mais complexo",
+                "Scratch Animação 1: Animações para um jogo 2D",
+                "Scratch Animação 2: Dando vida a um cenário e retrabalhando sprites",
+                "Scratch Efeitos Visuais: Programando e mixando efeitos especiais",
+                "Futebol Manager 1: Lidere a seleção",
+                "Futebol Manager 2: Evoluindo a estratégia",
+                "Futebol Manager 3: Criando um jogo mais complexo",
+                "",
+                "Scratch: Criando um robô gênio",
+                "Troco 1: O jogo da venda",
+                "Troco 2: Desafios com decimais na computação",
+                "Scratch: Seu jogo com física e gravidade",
+                "Scratch: Física e efeitos especiais",
+                "Storytelling: Contando histórias com Scratch",
+                "Scratch: Desenvolvendo um jogo de cobrança de Pênalti",
+                "Cifra de César: Criptografando e descriptografando textos",
+                "App Inventor: Sabre Jedi",
+                "App Inventor 2: Compartilhamento e trabalhando com mídias",
+                "App Inventor 3: Conectando seu aplicativo a web e outros apps",
+                "",
+                "Construct 1: Criando seu primeiro jogo",
+                "Construct 2: Pontuação, sons e menu",
+                "Jogo plataforma Construct 1: Criando um jogo",
+                "Jogo plataforma com Construct 2: Vida, sons, e poder especial",
+                "Jogos clássicos parte 1: Iniciando no JavaScript com Pong",
+                "JavaScript 1: Criando um robô gênio",
+                "Invasão do espaço 1: Aprendendo a programar com jogos clássicos",
+                "Invasão do espaço 2: Refinando o jogo"
+            ],
+            "showExtra": false
+        },
+        {
+            "title": "FRONT-END com HTML e CSS",
+            "titleSerie": "1ª Série Ensino Médio",
+            "p": [
+                "Neste curso vamos aprender como a lógica de programação funciona e vamos aplicá-la na construção de páginas e site utilizando a tecnologia HMTL5 e CSS3, que são as tecnologias de base utilizadas hoje no mercado de trabalho. Depois que tivermos conhecimento sobre as bases vamos avançar para algumas ferramentas que nos auxiliam no desenvolvimento mais rápido de páginas, sites e até mesmo ambientes completos, como portais, e para isso vamos utilizar ferramentas como Flexbox e Bootstrap e para concluir o nosso curso faremos um projeto completo desde a base às páginas, passando para um estudo de layout para que nosso site rode em vários tipos de dispositivos desde computadores até smartphones. contemplando as diversas técnicas e tecnologias para desenvolvimento de FRONT-END, que temos no mercado."
+            ],
+            "videoUrl": "https://youtube.com/embed/DmyoZ2T7wQs",
+            "ulTitle": "Conteúdos:",
+            "li": [
+                "Lógica de programação I: Os primeiros programas com JavaScript e HTML",
+                "Lógica de programação II: Pratique com desenhos, animações e um jogo",
+                "HTML5 e CSS3 parte 1: A primeira página da Web",
+                "HTML5 e CSS3 parte 2: Posicionamento, listas e navegação",
+                "HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas",
+                "HTML5 e CSS3 parte 4: Avançando no CSS",
+                "",
+                "CSS Grid: Simplificando layouts",
+                "Flexbox: Posicione elementos na tela",
+                "Bootstrap: Criação de uma single-page responsiva",
+                "Bootstrap 4: Criando uma landing page responsiva",
+                "Arquitetura CSS: Descomplicando os problemas",
+                "",
+                "Acessibilidade web parte 1: Tornando seu front-end inclusivo",
+                "Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript",
+                "HTTP: Entendendo a web por baixo dos panos",
+                "Vetores e Animação com SVG: Trabalhando com CSS e JavaScript",
+                "Layouts Responsivos: Trabalhando com layouts mobile",
+                "Front-end: Projeto de conclusão"
+            ],
+            "showExtra": false
+        },
+        {
+            "title": "Programação em JAVA",
+            "titleSerie": "3ª Série Ensino Médio e Técnico",
+            "p": [
+                "Neste curso, vamos estudar uma das linguagens de programação mais robusta, difundida e utilizada ao longo de décadas no mundo da programação. O maior exemplo que podemos citar para falar da Linguagem de programação JAVA é o sistema Android, ele é desenvolvido nessa poderosa linguagem, sendo o sistema mais utilizado em número de usuários em todo o mundo.",
+                "Neste curso, teremos o contato com a linguagem pura desde a utilização para interfaces simples, passando pelo armazenamento de informações e até o desenvolvimento de uma aplicação completa. Esse curso poderá ser a porta de entrada para o mundo da programação em Java, onde cada profissional poderá ter a visão para qual área terá mais afinidade para se aprofundar e atuar no amplo mercado da programação BACK-END."
+            ],
+            "videoUrl": "https://youtube.com/embed/RsX1eDoQlM8",
+            "ulTitle": "Conteúdos:",
+            "li": [
+                "Lógica de programação I: Os primeiros programas com JavaScript e HTML",
+                "Lógica de programação II: Pratique com desenhos, animações e um jogo",
+                "Java parte 1: Primeiros passos",
+                "Java parte 2: Introdução à orientação a objetos",
+                "",
+                "Java parte 3: Entendendo herança e interface",
+                "Java parte 4: Entendendo exceções",
+                "Java parte 5: Pacotes e java.lang",
+                "Java parte 6: Conhecendo o java.util",
+                "Java parte 7: Trabalhando com java.io",
+                "",
+                "Java e JDBC: Trabalhando com um banco de dados",
+                "Eclipse: Produtividade Extrema na IDE com Java",
+                "Threads em Java 1: Programação paralela",
+                "Java e JPA: Otimizações com JPA2 e Hibernate",
+                "",
+                "Introdução ao SQL com MySQL: Manipule e consulte dados",
+                "Consultas SQL: Avançando no SQL com MySQL"
+            ],
+            "showExtra": true,
+            "extraUlTitle": "Data Science (Ciência de Dados)",
+            "extraUlTitleSerie": "2ª Série Ensino Médio",
+            "extraP": [
+                "Neste curso vamos estudar o assunto que mais cresce na área da tecnologia atualmente. Data Science é a ciência que as empresas terão necessidade no futuro próximo, visto o volume de dados produzidos, gerados e armazenados por todos na atualidade. As empresas precisam saber o que fazer para processar e extrair as melhores informações dessa grande massa de dados gerados atualmente, que serão informações valiosas para decisões e mudanças estratégicas para a vida das empresas. Quem será o responsável para tratar e processar esses dados e para extrair melhores e mais valiosas informações é o profissional de Data Science: além dos conhecimentos de programação, esse profissional consegue também a ótica do como trabalhar, organizar e otimizar os dados de uma empresa."
+            ],
+            "extraLi": [
+                "Lógica de programação I: Os primeiros programas com JavaScript e HTML",
+                "Lógica de programação II: Pratique com desenhos, animações e um jogo",
+                "Python para Data Science: Primeiros passos",
+                "Python para Data Science: Introdução à linguagem e Numpy",
+                "",
+                "Python para Data Science: Funções, pacotes e Pandas básico",
+                "Data Science: Primeiros passos",
+                "Python Pandas: Tratando e analisando dados",
+                "Pandas: Formatos diferentes de entrada e saída (IO)",
+                "",
+                "Data Visualization: Explorando com Seaborn",
+                "Data Science: Introdução à análise de séries temporais",
+                "Python Scikit-Learn: Regressão, classificação e clustering",
+                "Corretor Ortográfico em Python: Aplicando técnicas de NLP",
+                "Scraping com Python: Coleta de dados na web"
+            ]
+        },
+        {
+            "title": "FRONT-END com HTML e CSS",
+            "titleSerie": "1ª Série Ensino Médio",
+            "p": [
+                "Neste curso vamos aprender como a lógica de programação funciona e vamos aplicá-la na construção de páginas e site utilizando a tecnologia HMTL5 e CSS3, que são as tecnologias de base utilizadas hoje no mercado de trabalho. Depois que tivermos conhecimento sobre as bases vamos avançar para algumas ferramentas que nos auxiliam no desenvolvimento mais rápido de páginas, sites e até mesmo ambientes completos, como portais, e para isso vamos utilizar ferramentas como Flexbox e Bootstrap e para concluir o nosso curso faremos um projeto completo desde a base às páginas, passando para um estudo de layout para que nosso site rode em vários tipos de dispositivos desde computadores até smartphones. contemplando as diversas técnicas e tecnologias para desenvolvimento de FRONT-END, que temos no mercado."
+            ],
+            "videoUrl": "https://youtube.com/embed/DmyoZ2T7wQs",
+            "ulTitle": "Conteúdos:",
+            "li": [
+                "Lógica de programação I: Os primeiros programas com JavaScript e HTML",
+                "Lógica de programação II: Pratique com desenhos, animações e um jogo",
+                "HTML5 e CSS3 parte 1: A primeira página da Web",
+                "HTML5 e CSS3 parte 2: Posicionamento, listas e navegação",
+                "HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas",
+                "HTML5 e CSS3 parte 4: Avançando no CSS",
+                "",
+                "CSS Grid: Simplificando layouts",
+                "Flexbox: Posicione elementos na tela",
+                "Bootstrap: Criação de uma single-page responsiva",
+                "Bootstrap 4: Criando uma landing page responsiva",
+                "Arquitetura CSS: Descomplicando os problemas",
+                "",
+                "Acessibilidade web parte 1: Tornando seu front-end inclusivo",
+                "Acessibilidade web parte 2: Componentes acessíveis com um pouco de JavaScript",
+                "HTTP: Entendendo a web por baixo dos panos",
+                "Vetores e Animação com SVG: Trabalhando com CSS e JavaScript",
+                "Layouts Responsivos: Trabalhando com layouts mobile",
+                "Front-end: Projeto de conclusão"
+            ],
+            "showExtra": true,
+            "extraUlTitle": "Programação em Python",
+            "extraUlTitleSerie": "3ª Série Ensino Médio e Técnico",
+            "extraP": [
+                "Neste curso, vamos estudar a linguagem de programação mais querida dos desenvolvedores na atualidade. Python é uma das maiores escolhas para entrar no mundo da programação, onde com ela poderemos desenvolver desde os conceitos mais básicos da programação evoluindo até a possibilidade do desenvolvimento de jogos com essa poderosa linguagem de programação.",
+                "Com Python, atualmente podemos trabalhar desde aplicações que manipulam informações simples, como dados de hardware, até informações complexas de alto poder de processamento, como ações dentro de games. Python é uma linguagem em ampla e constante evolução e adesão para aplicações de pequeno, médio e grande porte."
+            ],
+            "extraLi": [
+                "Lógica de programação I: Os primeiros programas com JavaScript e HTML",
+                "Lógica de programação II: Pratique com desenhos, animações e um jogo",
+                "Python 3 parte 1: Introdução à nova versão da linguagem",
+                "Python 3 parte 2: Avançando na linguagem",
+                "Python 3: Introdução à orientação a objetos",
+                "",
+                "Python 3: Avançando na orientação a objetos",
+                "Python 3: Trabalhando com I/O",
+                "Python: Manipulação de Strings",
+                "Python 3: Entendendo o tratamento de erros",
+                "Python Brasil: Validação de dados no padrão nacional",
+                "Design Patterns Python I: Boas práticas de programação",
+                "",
+                "Design Patterns Python II: Boas práticas de programação",
+                "Python Collections parte 1: Listas e tuplas",
+                "Python Collections parte 2: Conjuntos e dicionários",
+                "Pacman com Python e Pygame: Cenário e ator",
+                "Pacman com Python e Pygame: Colisão e pontuação"
+            ]
+        }
+    ]
+}

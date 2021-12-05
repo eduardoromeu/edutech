@@ -1,0 +1,32 @@
+{
+    "posts" : [
+        {
+            "title" : "Desafio Edutech",
+            "date" : "19/11/2021",
+            "headline" : "Venha participar do desafio você também!",
+            "displayImage" : true,
+            "postImageIndex" : 1,
+            "paragraphs" : [
+                "Com o objetivo de motivar os estudantes do Programa Edutech a desenvolverem projetos digitais, a plataforma de Programação Alura juntamente com a Secretaria de Estado da Educação e do Esporte propõe um novo desafio.",
+                "Poderão participar do Desafio os estudantes matriculados no Programa Edutech, que concluiram pelo menos 70% de sua trilha de estudos dentro da plataforma Alura",
+                "A participação do Desafio será exclusivamente online e em duas etapas.",
+                "Cada trilha também será premiada com medalhas.",
+                "<br />",
+                "Para maiores informações, acesse o <strong><a style='text-decoration: underline' href='https://www.educacao.pr.gov.br/sites/default/arquivos_restritos/files/documento/2021-11/desafio_edutech.pdf'>edital do desafio<a></strong>"
+            ]
+        },
+        {
+            "title" : "Edutech Na Escola",
+            "date" : "02/08/2021",
+            "headline" : "Professores se destacam entre os alunos ao trazerem o Programa Edutech para escola em Palmital.",
+            "displayImage" : true,
+            "postImageIndex" : 0,
+            "paragraphs" : [
+                "No Colégio Dr. João Ferreira Neves, da cidade de Palmital, os professores do Curso Técnico De Informática, foram responsáveis por levar o Programa Edutech aos alunos. Foram realizadas as inscrições de todos os alunos do ensino médio (do 1º ao 4º ano) do período da tarde, juntamente com os professores. Os alunos assistem as aulas e realizam as atividades utilizando o laboratório de matemática da escola, durante o horário das aulas do curso.",
+                "Pela cidade se localizar no interior do estado, grande parte dos alunos moram na zona rural, e muitos não tem contato constante com um computador.",
+                "<br />",
+                "\"Esta é uma oportunidade de, não só introduzir os alunos ao mundo da programação e ao funcionamento de um programa de computador, mas também muitas vezes de introduzi-los a utilização dos computadores.\" - Afirma um dos alunos do Segundo Ano."
+            ]
+        }
+    ]
+}
