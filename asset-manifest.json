@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/edutech/static/css/main.c3ed2abc.chunk.css",
+    "main.js": "/edutech/static/js/main.45876a41.chunk.js",
+    "main.js.map": "/edutech/static/js/main.45876a41.chunk.js.map",
+    "runtime-main.js": "/edutech/static/js/runtime-main.d0369fcb.js",
+    "runtime-main.js.map": "/edutech/static/js/runtime-main.d0369fcb.js.map",
+    "static/js/2.243bf5f8.chunk.js": "/edutech/static/js/2.243bf5f8.chunk.js",
+    "static/js/2.243bf5f8.chunk.js.map": "/edutech/static/js/2.243bf5f8.chunk.js.map",
+    "index.html": "/edutech/index.html",
+    "static/css/main.c3ed2abc.chunk.css.map": "/edutech/static/css/main.c3ed2abc.chunk.css.map",
+    "static/js/2.243bf5f8.chunk.js.LICENSE.txt": "/edutech/static/js/2.243bf5f8.chunk.js.LICENSE.txt",
+    "static/media/banner_desafio_edutech.5e0283d2.png": "/edutech/static/media/banner_desafio_edutech.5e0283d2.png",
+    "static/media/desafio.b22dac01.png": "/edutech/static/media/desafio.b22dac01.png",
+    "static/media/edutech-jfn.612d155a.jpeg": "/edutech/static/media/edutech-jfn.612d155a.jpeg",
+    "static/media/logo-full-white.41ac28d6.png": "/edutech/static/media/logo-full-white.41ac28d6.png",
+    "static/media/logo-full.24a7ea94.png": "/edutech/static/media/logo-full.24a7ea94.png",
+    "static/media/logo-large-white.3f2bb830.png": "/edutech/static/media/logo-large-white.3f2bb830.png",
+    "static/media/logo-large.5b2f3271.png": "/edutech/static/media/logo-large.5b2f3271.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0369fcb.js",
+    "static/js/2.243bf5f8.chunk.js",
+    "static/css/main.c3ed2abc.chunk.css",
+    "static/js/main.45876a41.chunk.js"
+  ]
+}
